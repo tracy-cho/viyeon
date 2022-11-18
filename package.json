@@ -1,0 +1,12 @@
+{
+  "name": "@viyeon/root",
+  "packageManager": "yarn@3.3.0",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "dependencies": {
+    "vite-plugin-solid": "^2.4.0"
+  }
+}
